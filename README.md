@@ -1,7 +1,7 @@
 # Tugas 2 Praktikum Pemrograman Berorientasi Objek
 
 * **Nama Lengkap:** Azmi Basri
-* **NPM:** [Isi NPM Lengkap Anda]
+* **NPM:** 250810701100044
 * **Kelas Praktikum:** A
 * **Tautan Repository:** `https://github.com/username/Tugas2_Inherit-polymorph-Npmawalakhir`
 
